@@ -1,0 +1,214 @@
+.father {
+    background-color: white;
+    height: 640px;
+    width: 400px;
+    margin: auto;
+    position: relative;
+    border:1px solid black;
+    
+}
+.box1 img{
+    position: absolute;
+    right: 5px;
+    width: 40px;
+}
+.box2 img {
+    position: absolute;
+    width: 120px;
+    top: 50px;
+    left: 140px;
+
+}
+.box3a {
+    position:absolute;
+    height: 40px;
+    width: 400px;
+    top: 190px;
+    line-height: 36px;
+
+    
+}
+.f1 {
+    height: 40px;
+}
+.f1a {
+    position: absolute;
+    left: 52px;
+    top: 5px;
+    height: 28px;
+    z-index:999;
+}
+.f1 input{
+    position: absolute;
+    width: 80px;
+    
+    height: 34px;
+    left: 50px;
+
+}
+.f1 button{
+    height: 36px;
+    border: 0;
+    padding: 0;
+    position: absolute;
+    left: 107px;
+    top: 2px;
+    background-color: white;
+}
+
+.box3a span input {
+    height: 34px;
+    position: absolute;
+    top: -2px;
+    left: 30px;
+    width: 200px;
+
+}
+.box3b {
+    height: 34px;
+    position: absolute;
+    top: 250px;
+    left: 0px;
+    width: 400px;
+}
+.f2 {
+    position: absolute;
+    width: 300px;
+    top: -21px;
+    height: 34px;
+    left: 50px;
+    border-collapse: collapse;
+}
+.f2 input{
+    position: absolute;
+    width: 287.1px;
+    
+    height: 34px;
+    left: 0px;
+}
+.fa2{
+    position: absolute;
+    left: 1.4px;
+    top: 5px;
+    height: 25px;
+    z-index:999;
+}
+.box4 {
+    position: absolute;
+    top: 300px; 
+    left: 50px;
+    width: 500px;
+    
+}
+.box4 img {
+    position: absolute;
+    top: 1px;
+    height: 20px;
+}
+.a1 {
+    position: absolute;
+    top: 0px;
+    left: 130px;
+    color: rgba(64, 167, 222, 0.741);
+    text-decoration: none;
+}
+.box4 span {
+    position: absolute;
+    top: 0px;
+    left: 210px;
+    color: grey;
+    font-size: smaller;
+    line-height: 21px;
+}
+.a2 {
+    position: absolute;
+    top: 0px;
+    left: 230px;
+    color: rgba(64, 167, 222, 0.741);
+    text-decoration: none;
+
+}
+.box5 {
+    position: absolute;
+    top: 350px;
+    left: 50px;
+    width: 400px;
+}
+.box5 input {
+    position: absolute;
+    left: 20px;
+    width: 250px;
+    background-color: red;
+    border-radius: 5px;
+    border: 1px red solid;
+    height: 50px;
+}
+.box5 span {
+    color: white;
+    position: absolute;
+    top: 15px;
+    left: 125px;
+}
+.box6 {
+    position: absolute;
+    top: 420px;
+    left: 180px;
+    
+}
+.box6 a {
+    color: black;
+
+}
+.box7 {
+    position: absolute;
+    top: 460px;
+    left: 20px;
+    width: 400px;
+    
+    
+}
+.b71 {
+    height: 50.5px;
+    padding: 20px;
+}
+.b72 {
+    padding: 20px;
+    height: 49.5px;
+
+}
+.b73 {
+    padding: 20px;
+    height: 48px;
+
+}
+.b74 {
+    padding: 20px;
+    height: 48px;
+
+}
+.box8 {
+    position: absolute;
+    top: 560px; 
+    left: 30px;
+    width: 500px;
+}
+.box8 img {
+    position: absolute;
+    top: 1px;
+    height: 20px;
+}
+.box8 form {
+    position: absolute;
+    left: 0px;
+    
+} 
+.box8 div {
+    font-size: 13px;
+    position: absolute;
+    left: 70px;
+line-height: 20px;
+}
+.box8 div a {
+    text-decoration: none;
+color: rgba(64, 167, 222, 0.741);
+}
